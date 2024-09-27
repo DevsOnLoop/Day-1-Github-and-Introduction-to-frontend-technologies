@@ -1,0 +1,4 @@
+hello,My name is anamika mishra.
+i am second year student of electrical engineering branch at B.I.E.T., Jhansi.
+i am from Deoria (u.p.).
+i am currently learning Python Programming to enhance my skills in software development.
