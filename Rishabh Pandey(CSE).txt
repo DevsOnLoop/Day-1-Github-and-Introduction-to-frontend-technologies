@@ -1,0 +1,5 @@
+Hi 
+My name is Rishabh Pandey
+My branch is Computer Science and Engineering 
+I am from Gorakhpur
+I am learning web development and DSA
